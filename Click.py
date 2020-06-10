@@ -1,2 +1,2 @@
 def click():
-  print("New Screen")
+  print("Click")
